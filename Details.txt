@@ -1,0 +1,31 @@
+
+Topics:
+
+  Installation & Downloads:
+    Node Latest LTS(Long Time Support) version, (https://nodejs.org/en/download) dowload exe and install it.
+    VScode Extensions:
+      1. Live Server - Ritwick Dey
+      2. vscode Icons - VsCode Icons Team
+      3. Sonarlint - Sonarsource
+      4. EsLint - Microsoft
+      5. HTML CSS Support - ecmel
+      6. HTML Boilerplate - sidthesloth
+      7. Bracket Pair Colorization Toggler - Dzhavat Ushev
+      8. Tabnine
+      9. Prettier
+
+  HTML
+    DOM -> Document Object Model
+
+  CSS
+    Properties
+    Values
+    
+  JS
+    what is javascript
+
+  DOM Manipulations
+
+  Simple UI interaction using JS
+
+    click
